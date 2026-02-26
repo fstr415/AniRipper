@@ -60,8 +60,6 @@ It is designed as a **portable Windows app**: extract the release zip, keep the 
 
 ## Screenshots
 
-Replace these images with your actual app screenshots in `docs/images/` using the same filenames.
-
 ### Search
 
 <p align="center">
