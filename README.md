@@ -1,5 +1,6 @@
 # AniRipper
 
+# DEPRECATED! Since the taking-down of anime websites has began this project no longer works, mostly because anipy-cli doesn't work anymore </3
 <p align="center">
   <img src="docs/images/app-icon.png" alt="AniRipper icon" width="96" height="96">
 </p>
